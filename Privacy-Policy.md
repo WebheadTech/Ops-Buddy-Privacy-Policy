@@ -53,6 +53,6 @@ We may update our Privacy Policy from time to time. Thus, we advise you to revie
 
 ### Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@cenithinnovations.com
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at support@opsdesk.app
 
 Privacy policy generated at [privacypolicytemplate.net](https://www.privacypolicytemplate.net)
